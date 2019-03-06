@@ -4,7 +4,7 @@
     <property name="created">2019-02-15T16:10:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-03-04T16:22:28</property>
+    <property name="modified">2019-03-06T13:50:30</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
@@ -29,4 +29,11 @@
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
+  <attributes>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
