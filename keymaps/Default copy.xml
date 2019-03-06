@@ -2,6 +2,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
