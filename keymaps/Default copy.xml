@@ -1,6 +1,6 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="Annotate">
-    <keyboard-shortcut first-keystroke="ctrl meta j" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
